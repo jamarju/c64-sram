@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74F32
+D 8 bits Latch 3 state Out
+K TTL DFF DFF8 LATCH 3State
+$ENDCMP
+#
+#End Doc Library
