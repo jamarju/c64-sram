@@ -2,4 +2,4 @@ Ref,Qty,Mfr. Code,Description
 IC1,1,IS61C1024AL-12TLI,SRAM chip 5V 12ns 32-pin TSOP-I (8x20 mm)
 IC2,1,"74HCT573PW,112","Transparent latch x8, TSSOP-20 (body width 4.4 mm)"
 IC3,1,"74HCT32D,653",OR gate SO-14 (body width 3.9 mm)
-"U10, U11",24,???,"Round pin header strip, 2.54 mm pitch, 0.5 mm contact width"
+"U10, U11",24,See README,"Round pin header strip, 2.54 mm pitch, 0.5 mm contact width"
